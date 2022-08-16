@@ -27,26 +27,22 @@ body {
 .background-green {
   background-color: #A5C9CA;
   background-size: cover;
-  width: 100%;
 }
 
 .background-cream {
   background-color: #FAF3E0;
   background-size: cover;
-  width: 100%;
 }
 
 .background-white {
   background-color: white;
   background-size: cover;
-  width: 100%;
 }
 
 .background-black {
   background-color: #393E46;
   background-size: cover;
   color: #F6F6F6;
-  width: 100%;
 }
 
 .column {
